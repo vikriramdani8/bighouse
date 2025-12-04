@@ -1,0 +1,6 @@
+:host {
+    display: block;
+    font-family: 'Inter', sans-serif;
+}
+
+/* All other styles have been migrated to Tailwind CSS in the HTML template */
